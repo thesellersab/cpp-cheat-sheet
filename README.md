@@ -1,6 +1,6 @@
 # C++ and Data Structures & Algorithms Cheat Sheet
 
-[Single File Cheat Sheet](container-library-overview-2012-12-27.pdf)
+# [Single File Cheat Sheet](container-library-overview-2012-12-27.pdf)
 
 These are two cheat sheets I put together describing both basic [C++ syntax](C++%20Syntax.md) (mostly C++11) and many common [data structures and algorithms](Data%20Structures%20and%20Algorithms.md) in C++, which I've used to study for my past interviews at Google, NASA, etc.
 
